@@ -30,3 +30,9 @@
     height: 30%;
     display: inline-block;
 }
+.table4 {
+    border: blue 1px solid;
+    width: 45%;
+    height: 50%;
+    display: inline-block;
+}
