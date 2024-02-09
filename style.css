@@ -1,0 +1,25 @@
+.head {
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.center {
+    font-weight: bold;
+    text-align: center;
+}
+
+.table {
+    border: blue 1px solid;
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+}
+
+
+.table2 {
+    border: blue 1px solid;
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+}
